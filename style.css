@@ -1,0 +1,163 @@
+div
+{
+    border-radius: 5px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 30px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    position: relative;
+    top: -29px;
+}
+.gmail{
+    height: 12px;
+    position: relative;
+    top: 2px;
+    right: 1px;  
+}
+#contect{
+    height: 15px;
+    position: relative;
+    top: 3px;
+}
+
+#contact
+{
+    margin-left:45%;
+    padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    }
+
+a:hover {
+    font-weight: bold;
+}
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: 1308;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+    
+#footer
+{
+    height:40px;
+    width: 100%;
+    clear:both;
+    position: relative;
+    top: -40px;
+    left: -3.8px;
+    background-color: #C1E3E1;
+    }
+    
+h3
+{
+    text-decoration: underline;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#company-name
+{
+    height:2px;
+    text-decoration:underline;
+    }
+#job-title
+{
+    height: 5px;
+    }
+.job-duration
+{
+    float:right;
+    }
+#heading
+{
+    font-weight:bold;
+    }
+.Git{
+        height: 22px;
+        position: relative;
+        top: 6px;
+        right: 5px;
+    }  
+.Live{
+    height: 23px;
+    position: relative;
+    top: 6px;
+    right: 5px;
+
+     }
+.about{
+    position: relative;
+    top: -13px;
+}
+.link{
+    position: relative;
+    top: -18px;
+}
+.prName{
+    position: relative;
+    top: -25px;
+}
+.about2{
+    position: relative;
+    top: -37px;
+}
+.link2{
+    position: relative;
+    top: -48px;
+}
+.prName2{
+    position: relative;
+    top: -49px;
+}
+.about3{
+    position: relative;
+    top: -60px
+}
+.link3{
+    position: relative;
+    top: -65px;
+}
+.tech-skill{
+    position: relative;
+    top: -65px;
+}
+.personal{
+    position: relative;
+    top: -60px;
+}
+.Declaration{
+    position: relative;
+    top: -55px;
+}     
